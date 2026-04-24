@@ -174,7 +174,7 @@ npm run dev
 
 ### Acesso
 - **URL Local**: http://localhost:5173
-- **URL Lovable**: https://lovable.dev/projects/3bb92bb7-b6e9-4850-968a-c0df8ae12f98
+- **URL**: https://suape-eco.netlify.app/
 
 ## 🔐 Configuração do Backend
 
@@ -257,7 +257,7 @@ Este projeto foi desenvolvido especialmente para o **Hackathon do Porto de Suape
 ### Como acessar a plataforma:
 1. **Acesso direto**: Visite a URL de produção (disponível após publicação)
 2. **Desenvolvimento local**: Clone o repositório e execute `npm run dev`
-3. **Lovable Platform**: https://lovable.dev/projects/3bb92bb7-b6e9-4850-968a-c0df8ae12f98
+3. **Platform**: https://suape-eco.netlify.app/
 
 ### Deploy
 Para publicar a aplicação:
